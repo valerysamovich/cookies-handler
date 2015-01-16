@@ -15,7 +15,7 @@ Features
 - Content type
 - Error stream
 
-[**Cookies**}(https://hc.apache.org/httpclient-3.x/apidocs/org/apache/commons/httpclient/Cookie.html) information:
+[**Cookies**](https://hc.apache.org/httpclient-3.x/apidocs/org/apache/commons/httpclient/Cookie.html) information:
 
 - Cookie name
 - Cookie value
