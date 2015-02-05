@@ -5,6 +5,8 @@ The cookies-handler tool is desined to work with header and cookies information.
 Dependencies
 ------------
 
+Commons Httpclient, Servle Api.
+
 Features
 --------
 
