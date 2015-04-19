@@ -1,6 +1,6 @@
 cookies-handler
 ===============
-The cookies-handler tool is desined to work with header and cookies information. The projects are develop with Maven.
+The cookies-handler tool is desined to work with header and cookies information. The projects are developed with Maven.
 
 Dependencies
 ------------
