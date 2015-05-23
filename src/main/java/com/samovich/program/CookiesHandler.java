@@ -22,7 +22,8 @@ public class CookiesHandler {
             ConfigureSSLContext();
 
             HttpClient client = new HttpClient();
-            GetMethod method = new GetMethod("https://wdw-latest.disney.go.com/plan/itinerary/2015-03-01/");
+            // Http or Https Url must be specified first
+            GetMethod method = new GetMethod("...");
 
             try {
                 client.executeMethod(method);
