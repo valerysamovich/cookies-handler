@@ -75,7 +75,7 @@ public class CookiesHandler {
 
         SSLContext.setDefault(ctx);
 
-        URL url = new URL("https://wdw-latest.disney.go.com/plan/itinerary/2015-03-01/");
+        URL url = new URL("...");
         HttpsURLConnection conn = (HttpsURLConnection) url.openConnection();
 
         conn.setHostnameVerifier(new HostnameVerifier() {
