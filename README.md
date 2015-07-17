@@ -1,14 +1,13 @@
-# cookies-handler
+# Cookies handler
 
-The cookies-handler tool is desined to work with header and cookies information. The projects are developed with Maven.
+> The cookies-handler tool is desined to work with header and cookies information. The projects are developed with Maven.
 
-Dependencies
-------------
+## Dependencies
 
-Commons Httpclient, Servlet API.
+- Commons Httpclient
+- Servlet API.
 
-Features
---------
+## Features
 
 [**Header**](http://docs.oracle.com/javase/7/docs/api/java/net/HttpURLConnection.html) information:
 
