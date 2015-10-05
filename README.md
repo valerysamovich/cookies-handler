@@ -7,6 +7,14 @@ The cookies-handler tool is desined to work with header and cookies information.
 - Commons Httpclient
 - Servlet API.
 
+## How to use program?
+
+Replace `http` or `https` with valid url:
+
+      HttpClient client = new HttpClient();
+      // Http or Https Url must be specified first
+      GetMethod method = new GetMethod("...");
+
 ## Features
 
 [**Header**](http://docs.oracle.com/javase/7/docs/api/java/net/HttpURLConnection.html) information:
